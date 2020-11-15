@@ -1,0 +1,5 @@
+1. Water
+2. Bread
+3. Meat
+4. Vegetables
+5. Fruits
